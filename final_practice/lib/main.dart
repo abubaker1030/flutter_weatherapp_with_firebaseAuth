@@ -1,10 +1,14 @@
+import 'package:final_practice/login_page.dart';
 import 'package:final_practice/output_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
 
-void main(){
+void main()async{
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(
     MaterialApp(
-      home: MyApp(),
+      home: LoginPage(),
     ),
   );
 }

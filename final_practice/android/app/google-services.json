@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045505130326",
+    "project_id": "final-exam-practice-bdf83",
+    "storage_bucket": "final-exam-practice-bdf83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045505130326:android:ee25220dfed427735520f7",
+        "android_client_info": {
+          "package_name": "com.example.final_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045505130326-0cr27co4nafi6bb15pdekv7gbvphtc75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3x6u1SX8cDGm_tzH_gM9--zpl1h3bU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045505130326-0cr27co4nafi6bb15pdekv7gbvphtc75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
